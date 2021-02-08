@@ -1,0 +1,1395 @@
+
+
+20-11-2013 15:39:08		
+0 -> nothing. Allready exsists,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 04:50:00		
+0 -> error. Invalide format caption,
+1 -> ok. Uploaded,
+2 -> ok. Uploaded,
+3 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 04:51:26		
+0 -> error. Invalide format caption,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 04:52:38		
+0 -> ok. Uploaded,
+1 -> error. Invalide format caption,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 04:54:43		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> error. Invalide format caption,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 04:57:11		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> error. Invalide format caption,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 04:58:22		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> error. Invalide format caption,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 04:59:06		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> error. Invalide format caption,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 04:59:36		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> error. Invalide format caption,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 05:00:27		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> error. Invalide format caption,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 05:01:45		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> error. Invalide format caption,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 05:03:04		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> error. Invalide format caption,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 05:05:07		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> error. Invalide format caption,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 05:08:50		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> error. Invalide format caption,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 17:48:48		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> error. Invalide format caption,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+01-12-2013 17:51:54		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> error. Invalide format caption,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+02-12-2013 19:21:25		
+0 -> ok. Uploaded,
+1 -> ok. Uploaded,
+2 -> ok. Uploaded,
+3 -> ok. Uploaded,
+4 -> ok. Uploaded,
+5 -> ok. Uploaded,
+6 -> ok. Uploaded,
+7 -> ok. Uploaded,
+8 -> ok. Uploaded,
+9 -> ok. Uploaded,
+10 -> ok. Uploaded,
+11 -> ok. Uploaded,
+12 -> error. Invalide format caption,
+13 -> ok. Uploaded,
+14 -> ok. Uploaded,
+15 -> ok. Uploaded
+
+-----------------------------------------
+
+
+04-12-2013 12:13:40		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> error. Invalide format caption,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+19-12-2013 17:04:52		
+0 -> error. Invalide format caption,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> error. Invalide format caption,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+19-12-2013 17:04:57		
+0 -> error. Invalide format caption,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> error. Invalide format caption,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+19-12-2013 17:05:24		
+0 -> error. Invalide format caption,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> error. Invalide format caption,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+19-12-2013 17:05:42		
+0 -> error. Invalide format caption,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> error. Invalide format caption,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+19-12-2013 17:08:43		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> error. Invalide format caption,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 14:51:44		
+0 -> error. Invalide format caption,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> error. Invalide format caption,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 14:53:25		
+0 -> ok. Uploaded,
+1 -> error. Invalide format caption,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> error. Invalide format caption,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 14:54:06		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> error. Invalide format caption,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> error. Invalide format caption,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 14:55:05		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> error. Invalide format caption,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> error. Invalide format caption,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 14:55:56		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> error. Invalide format caption,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> error. Invalide format caption
+
+-----------------------------------------
+
+
+31-12-2013 14:56:54		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> error. Invalide format caption,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 14:57:56		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> error. Invalide format caption,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 14:58:47		
+0 -> error. Invalide format caption,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> error. Invalide format caption,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 15:02:14		
+0 -> ok. Uploaded,
+1 -> error. Invalide format caption,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> error. Invalide format caption,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 17:02:07		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> error. Invalide format caption,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 17:04:35		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> error. Invalide format caption,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 17:06:16		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> error. Invalide format caption,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 17:08:02		
+0 -> nothing. Allready exsists,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> error. Invalide format caption,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 17:09:33		
+0 -> error. Invalide format caption,
+1 -> nothing. Allready exsists,
+2 -> error. Invalide format caption,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 17:10:33		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> error. Invalide format caption,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+31-12-2013 17:12:40		
+0 -> nothing. Allready exsists,
+1 -> ok. Uploaded,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> error. Invalide format caption
+
+-----------------------------------------
+
+
+10-01-2014 17:03:21		
+0 -> nothing. Allready exsists,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> error. Invalide format caption
+
+-----------------------------------------
+
+
+10-01-2014 17:13:14		
+0 -> nothing. Allready exsists,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> error. Invalide format caption
+
+-----------------------------------------
+
+
+10-01-2014 17:13:52		
+0 -> nothing. Allready exsists,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> error. Invalide format caption
+
+-----------------------------------------
+
+
+10-01-2014 17:17:12		
+0 -> nothing. Allready exsists,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> error. Invalide format caption
+
+-----------------------------------------
+
+
+10-01-2014 17:19:41		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> error. Invalide format caption
+
+-----------------------------------------
+
+
+10-01-2014 17:34:38		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+10-01-2014 17:35:50		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+10-01-2014 17:37:18		
+0 -> error. Invalide format caption,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+10-01-2014 17:38:40		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+10-01-2014 17:45:41		
+0 -> nothing. Allready exsists,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> error. Invalide format caption
+
+-----------------------------------------
+
+
+10-01-2014 17:47:41		
+0 -> nothing. Allready exsists,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> error. Invalide format caption
+
+-----------------------------------------
+
+
+10-01-2014 17:52:26		
+0 -> nothing. Allready exsists,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> error. Invalide format caption
+
+-----------------------------------------
+
+
+10-01-2014 17:56:56		
+0 -> nothing. Allready exsists,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> error. Invalide format caption
+
+-----------------------------------------
+
+
+10-01-2014 17:57:27		
+0 -> nothing. Allready exsists,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> error. Invalide format caption
+
+-----------------------------------------
+
+
+10-01-2014 18:02:26		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+10-01-2014 18:24:10		
+0 -> error. Invalide format caption,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+10-01-2014 18:33:48		
+0 -> error. Invalide hashtag,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+10-01-2014 20:06:48		
+
+
+-----------------------------------------
+
+
+10-01-2014 20:07:00		
+
+
+-----------------------------------------
+
+
+10-01-2014 20:27:19		
+0 -> ok. Uploaded,
+1 -> ok. Uploaded,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+10-01-2014 21:10:34		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> ok. Uploaded,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+10-01-2014 21:11:15		
+0 -> ok. Uploaded,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists,
+19 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+10-01-2014 23:37:52		
+0 -> ok. Uploaded,
+1 -> ok. Uploaded,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> ok. Uploaded,
+17 -> nothing. Allready exsists,
+18 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+24-02-2014 18:44:40		
+0 -> nothing. Allready exsists,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+24-02-2014 19:07:43		
+0 -> nothing. Allready exsists,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists
+
+-----------------------------------------
+
+
+24-02-2014 19:31:55		
+0 -> nothing. Allready exsists,
+1 -> nothing. Allready exsists,
+2 -> nothing. Allready exsists,
+3 -> nothing. Allready exsists,
+4 -> nothing. Allready exsists,
+5 -> nothing. Allready exsists,
+6 -> nothing. Allready exsists,
+7 -> nothing. Allready exsists,
+8 -> nothing. Allready exsists,
+9 -> nothing. Allready exsists,
+10 -> nothing. Allready exsists,
+11 -> nothing. Allready exsists,
+12 -> nothing. Allready exsists,
+13 -> nothing. Allready exsists,
+14 -> nothing. Allready exsists,
+15 -> nothing. Allready exsists,
+16 -> nothing. Allready exsists,
+17 -> nothing. Allready exsists
+
+-----------------------------------------

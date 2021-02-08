@@ -1,0 +1,18 @@
+Options +FollowSymLinks
+IndexIgnore */*
+RewriteEngine on
+
+#RewriteCond %{HTTP_HOST} ^xn--b1aaibaqnkq0c1b1d.xn--p1ai$
+RewriteCond %{HTTP_HOST} !^flowersvillage.ru$
+RewriteRule (.*) https://flowersvillage.ru/$1 [L,R=301,QSA]
+
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule ^(.*)$ https://flowersvillage.ru%{REQUEST_URI} [L,R=301]
+
+# if a directory or a file exists, use it directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# otherwise forward it to index.php
+RewriteRule . index.php

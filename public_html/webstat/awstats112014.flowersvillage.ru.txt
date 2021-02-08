@@ -1,0 +1,261 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201411 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.flowersvillage.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1963                
+POS_TIME 2645                
+POS_VISITOR 3395                
+POS_DAY 3672                
+POS_DOMAIN 3820                
+POS_LOGIN 4047                
+POS_ROBOT 4202                
+POS_WORMS 4512                
+POS_EMAILSENDER 4643                
+POS_EMAILRECEIVER 4786                
+POS_SESSION 4862                
+POS_SIDER 5019                
+POS_FILETYPES 5252                
+POS_OS 5414                
+POS_BROWSER 5516                
+POS_SCREENSIZE 5644                
+POS_UNKNOWNREFERER 5718                
+POS_UNKNOWNREFERERBROWSER 5829                
+POS_ORIGIN 5935                
+POS_SEREFERRALS 6066                
+POS_PAGEREFS 6221                
+POS_SEARCHWORDS 6369                
+POS_KEYWORDS 6521                
+POS_MISC 2309                
+POS_ERRORS 6580                
+POS_CLUSTER 3903                
+POS_SIDER_404 6681                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141102000316 161 33424 10114785610722
+FirstTime 20141101015902
+LastTime 20141101201357
+LastUpdate 20141102000324 161 0 161 0 0
+TotalVisits 4                   
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 3 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 263
+1 1 1 35526 4 11 96317
+2 0 0 0 2 2 21387
+3 0 0 0 4 4 26022
+4 0 0 0 0 0 0
+5 0 0 0 5 5 39126
+6 0 0 0 1 1 7111
+7 0 0 0 1 2 8505
+8 0 0 0 0 0 0
+9 0 0 0 5 5 30243
+10 0 0 0 1 1 7111
+11 0 0 0 0 0 0
+12 0 0 0 1 1 4580
+13 0 2 222856 1 2 3567
+14 0 0 0 1 1 7111
+15 0 0 0 3 3 24904
+16 0 0 0 11 21 153584
+17 0 0 0 7 7 14115
+18 1 1 35526 4 4 21462
+19 0 0 0 3 3 12541
+20 5 61 1662490 3 4 19181
+21 0 0 0 9 9 29124
+22 0 0 0 5 5 30437
+23 0 0 0 4 4 14465
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+46.0.139.210 4 60 1655379 20141101201357
+5.248.87.10 1 1 35526 20141101182644
+109.234.156.66 1 1 35526 20141101015902
+92.242.35.54 1 1 7111 20141101200552
+176.36.15.93 0 1 191124 
+217.118.81.13 0 1 31732 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20141101 7 65 1956398 4
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 7 65 1956398
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+yandex 43 302359 20141101232145 0
+googlebot 19 140716 20141101234815 0
+robot 4 21239 20141101125716 0
+crawl 2 14222 20141101182706 0
+[\s_+:,\.\;\/\\-]bot 1 7111 20141101180819 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 1
+0s-30s 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 5 92327 4 3
+/font/alsrubl-georgia-bold.woff 1 2074 0 0
+/AI-BOLIT-REPORT-31-10-2014_13-22-32070.html 1 14958 0 1
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 1 11535 0 0
+png 4 6043 0 0
+html 6 107285 0 0
+js 6 66404 0 0
+jpg 45 1759362 0 0
+woff 1 2074 0 0
+gif 2 3695 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 6
+macosx 60
+winxp 1
+Unknown 1
+linuxubuntu 1
+winvista 1
+win2008 1
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 5
+msie6.0 1
+firefox33.0 1
+chrome38.0.2125.111 61
+Unknown 1
+chrome23.0.1271.97 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+WebIndex 20141101200552
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WebIndex 20141101200552
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 6 7
+From1 0 0
+From2 0 1
+From3 0 0
+From4 1 57
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 10 10121
+404 14 71206
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 8
+/catalog/podarki/265 1 -
+/robots.txt 7 -
+/catalog/byketi/311 1 -
+/admin.php 1 -
+/catalog/tulip/308 1 -
+/administrator/ 1 -
+/catalog/byketi/313 1 -
+/wp-login.php 1 -
+END_SIDER_404

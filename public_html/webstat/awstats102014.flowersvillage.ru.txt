@@ -1,0 +1,360 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201410 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.flowersvillage.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1963                
+POS_TIME 2634                
+POS_VISITOR 6975                
+POS_DAY 8766                
+POS_DOMAIN 3237                
+POS_LOGIN 3466                
+POS_ROBOT 3621                
+POS_WORMS 3935                
+POS_EMAILSENDER 4066                
+POS_EMAILRECEIVER 4209                
+POS_SESSION 8873                
+POS_SIDER 9020                
+POS_FILETYPES 4344                
+POS_OS 4531                
+POS_BROWSER 4624                
+POS_SCREENSIZE 4808                
+POS_UNKNOWNREFERER 4882                
+POS_UNKNOWNREFERERBROWSER 4969                
+POS_ORIGIN 5051                
+POS_SEREFERRALS 5184                
+POS_PAGEREFS 5339                
+POS_SEARCHWORDS 5530                
+POS_KEYWORDS 5682                
+POS_MISC 2298                
+POS_ERRORS 5741                
+POS_CLUSTER 3322                
+POS_SIDER_404 5840                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141101013909 1 0 7938847632491
+FirstTime 20141030011514
+LastTime 20141031185511
+LastUpdate 20141102000324 1 0 0 0 0
+TotalVisits 45                  
+TotalUnique 44                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 45                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 2 2 11096
+1 1 1 7126 8 16 129744
+2 2 2 71067 7 14 117680
+3 0 0 0 0 0 0
+4 2 62 1644870 0 1 1394
+5 1 1 35526 4 12 94760
+6 0 0 0 1 1 7111
+7 3 59 1635450 2 2 14222
+8 0 0 0 7 7 53348
+9 0 0 0 1 1 10705
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 40 40 169641 9 9 9751
+13 0 0 0 3 3 21361
+14 0 4 341507 5 5 35555
+15 0 0 0 4 4 30958
+16 0 0 0 2 2 7951
+17 0 0 0 2 2 17793
+18 1 1 7111 3 3 17787
+19 0 0 0 10 16 130809
+20 0 0 0 17 31 72836
+21 0 0 0 2 2 14222
+22 0 0 0 4 4 18971
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 50 170 3912298
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+yandex 80 637158 20141031213049 0
+googlebot 5 31267 20141031184147 0
+bot[\s_+:,\.\;\/\\-] 5 25025 20141031222949 0
+ng\/1\. 1 35526 20141031200824 0
+surveybot 1 7111 20141030170301 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 2 23070 0 0
+png 8 12086 0 0
+html 8 142163 0 0
+jpg 90 3414519 0 0
+js 16 144310 0 0
+Unknown 39 162530 0 0
+woff 3 6230 0 0
+gif 4 7390 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 5
+winxp 41
+linuxubuntu 2
+linux 63
+winvista 1
+win2008 63
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 7
+msie6.0 41
+chrome32.0.1667.0 1
+firefox4.0.1 1
+chrome36.0.1985.125 4
+chrome29.0.1547.76 59
+chrome38.0.2125.104 62
+chrome23.0.1271.97 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 5 5
+From1 0 0
+From2 0 4
+From3 1 1
+From4 44 160
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 0 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://mansio.ru/files/wallpapers.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 8 2640
+404 35 76539
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 28
+/bitrix/themes/.default/images/auth_pict.gif 1 -
+/node/ 1 -
+/users/registrate/ 1 -
+/robots.txt 8 -
+/admin/content/sitetree/ 1 -
+/users/forget/ 1 -
+/installed 1 -
+/wp-admin/images/wordpress-logo.png 1 -
+/modules/system/system.base.css 1 -
+/templates/system/css/system.css 1 -
+/wp-admin/ 1 -
+/netcat/admin/skins/default/img/logo.png 1 -
+/netcat/admin/skins/default/css/style.css 1 -
+/bitrix/js/main/core/core.css 1 -
+/media/system/js/mootools.js 1 -
+/modules/system/system.css 1 -
+/wp-admin/css/wp-admin.css 1 -
+/images/cms/admin/mac/common/butterfly.png 1 -
+/bitrix/admin/ 1 -
+/netcat/admin/ 1 -
+/catalog/korzini/204 1 -
+/user/login/ 1 -
+/wp-login.php 1 -
+/wp-content/ 1 -
+/netcat/admin/skins/default/css/login.css 1 -
+/bitrix/themes/.default/adminstyles.css 1 -
+/user/password/ 1 -
+/styles/skins/mac/design/css/style.css 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 45
+94.231.130.131 3 59 1635450 20141031075922
+109.234.156.66 2 2 71067 20141031020732
+109.195.227.26 2 62 1644870 20141030042022
+195.34.78.243 2 2 7948 20141030124026
+194.29.185.231 2 2 7538 20141030124026
+91.217.162.180 1 1 4163 20141030124026
+185.50.251.190 1 1 4065 20141030124026
+194.242.3.45 1 1 4692 20141030124026
+37.18.42.42 1 1 4051 20141030124026
+194.242.3.44 1 1 4386 20141030124026
+91.213.72.169 1 1 4715 20141030124033
+46.243.173.12 1 1 3538 20141030124026
+37.230.213.171 1 1 4119 20141030124026
+91.238.114.197 1 1 4714 20141030124026
+46.148.31.137 1 1 4203 20141030124026
+37.18.42.79 1 1 2830 20141030124026
+5.175.196.47 1 1 7126 20141030011514
+46.148.113.159 1 1 4075 20141030124026
+79.110.17.139 1 1 4776 20141030124026
+188.42.240.119 1 1 35526 20141031053157
+193.0.129.105 1 1 3953 20141030124026
+195.78.109.160 1 1 4025 20141030124026
+195.191.41.95 1 1 4046 20141030124026
+91.223.28.66 1 1 5111 20141030124026
+193.106.34.229 1 1 4068 20141030124026
+193.142.30.149 1 1 4649 20141030124026
+179.61.201.122 1 1 4174 20141030124026
+193.106.35.190 1 1 7111 20141030124026
+62.122.79.64 1 1 3417 20141030124026
+188.72.96.68 1 1 4160 20141030124026
+193.176.147.181 1 1 4347 20141030124026
+195.34.79.23 1 1 4964 20141030124026
+91.236.120.104 1 1 3597 20141030124026
+193.106.32.134 1 1 4116 20141030124026
+91.233.89.68 1 1 3675 20141030124026
+188.72.126.155 1 1 4104 20141030124026
+91.203.236.70 0 4 341507 
+193.176.147.60 1 1 4169 20141030124026
+62.122.72.176 1 1 4062 20141030124026
+195.78.108.158 1 1 4257 20141030124026
+188.72.126.26 1 1 4933 20141030124026
+91.236.120.44 1 1 4040 20141030124026
+77.245.71.90 1 1 7111 20141031185511
+91.213.220.108 1 1 4687 20141030124026
+179.61.200.96 1 1 4163 20141030124026
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20141030 44 108 2198685 41
+20141031 6 62 1713613 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 45
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 42
+/ 8 142163 8 6
+/font/alsrubl-georgia-bold.woff 2 4148 0 1
+/catalog/podarki/322 1 3953 1 1
+/catalog/svadebnie/271 1 4687 1 1
+/catalog/byketi/327 1 4119 1 1
+/catalog/rozy/332 1 4116 1 1
+/catalog/svadebnie/272 1 4933 1 1
+/contacts 1 3955 1 0
+/catalog/rozy/331 1 4163 1 1
+/catalog/svadebnie/294 1 4776 1 1
+/catalog/svadebnie/336 1 4025 1 1
+/catalog/byketi/194 1 4068 1 1
+/catalog/korzini 1 3597 1 1
+/actions/1 1 3851 1 0
+/catalog/svadebnie/338 1 4714 1 1
+/catalog/rozy/330 1 4169 1 1
+/catalog/svadebnie/267 1 4692 1 1
+/catalog/rozy/333 1 4163 1 1
+/catalog/svadebnie/277 1 4257 1 1
+/catalog/byketi/198 1 3687 0 1
+/catalog/rozy/329 1 4075 1 1
+/catalog/podarki 1 3417 1 1
+/catalog/svadebnie/282 1 4386 1 1
+/catalog/svadebnie/284 1 4964 1 1
+/catalog/svadebnie/296 1 4715 1 1
+/catalog/rozy/334 1 4174 1 1
+/catalog/svadebnie/295 1 4649 1 1
+/catalog/svadebnie/279 1 4347 1 1
+/actions 1 2830 1 1
+/catalog/svadebnie 1 5111 1 1
+/catalog/byketi/325 1 4160 1 1
+/catalog/rozy 1 3675 1 1
+/catalog/korzini/345 1 3538 1 1
+/catalog/byketi/318 1 4040 1 1
+/font/alsrubl-georgia-regular.woff 1 2082 0 1
+/catalog/svadebnie/337 1 4203 1 1
+/catalog/byketi/324 1 4104 1 1
+/catalog/byketi/200 1 4065 1 1
+/catalog/byketi/196 1 4046 1 1
+/catalog/byketi 1 3993 0 1
+/catalog/byketi/323 1 4051 1 1
+/catalog/rozy/335 1 4062 1 1
+END_SIDER
