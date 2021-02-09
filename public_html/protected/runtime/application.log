@@ -2246,3 +2246,345 @@ Stack trace:
 REQUEST_URI=/order
 HTTP_REFERER=https://flowersvillage.ru/
 ---
+2021/02/09 14:02:53 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:02:54 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:09:46 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:09:47 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:09:47 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:09:48 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:09:48 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:09:48 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:09:48 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:09:49 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:10:21 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:10:21 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:10:22 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:17:25 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:21:45 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:21:45 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:21:46 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:21:46 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
+2021/02/09 14:21:47 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'tulip63ru_shop'@'localhost' (using password: YES) in /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/protected/controllers/SiteController.php(16): CModule->__get('db')
+#5 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#6 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(282): CController->run('')
+#10 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#11 /var/www/dev.flowersvillage.ru/flowersvillage/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /var/www/dev.flowersvillage.ru/flowersvillage/public_html/index.php(25): CApplication->run()
+#13 {main}
+REQUEST_URI=/
+---
